@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on web development /  javascript
 
 - 💬 Ask me about anything
